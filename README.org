@@ -10,6 +10,12 @@ El proyecto se compila haciendo:
 mvn clean install
 #+end_src
 
+#+begin_src java
+public void main(String args[]){
+	System.out.println("I want to die");
+}
+#+end_src
+
 ** ¿Como configurar la base de dadtos para que compile el proyecto?
 ** ¿Que dependencias son necesarias?
 * Estilo de codificación
